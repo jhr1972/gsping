@@ -1,4 +1,7 @@
-# docker-gs-ping
+# gsping
+
+##forked from https://github.com/olliefr/docker-gs-ping to build a sample scenario for tracing via istio.
+
 
 A simple Go server/microservice example for [Docker's Go Language Guide](https://docs.docker.com/language/golang/).
 
